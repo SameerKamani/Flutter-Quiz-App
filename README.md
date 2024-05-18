@@ -56,9 +56,6 @@ Feel free to use and modify the app as per your requirements. You can customize 
 
 Contributions are welcome! If you find any bugs or want to suggest improvements, please submit an issue or pull request on GitHub.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use and modify the code as per the license terms.
 
 ## Acknowledgements
 
