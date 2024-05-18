@@ -19,9 +19,12 @@ The Flutter Quiz App is a mobile application built using Flutter framework, desi
 
 ## Screenshots
 
-![Start Screen](screenshots/start_screen.png)
-![Questions Screen](screenshots/questions_screen.png)
-![Results Screen](screenshots/results_screen.png)
+![image](https://github.com/SameerKamani/Flutter-Quiz-App/assets/155903275/759439bb-2a30-42c2-ae9a-ddafe639df0e)
+
+![image](https://github.com/SameerKamani/Flutter-Quiz-App/assets/155903275/d7dbaa33-b133-4773-b5f7-9a07c8835455)
+
+![image](https://github.com/SameerKamani/Flutter-Quiz-App/assets/155903275/ef98fcb9-5fd8-487c-a076-56f965842441)
+
 
 ## Installation
 
